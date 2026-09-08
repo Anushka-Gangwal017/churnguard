@@ -1,17 +1,11 @@
 # ChurnGuard: An Explainable Customer Retention Intelligence Platform
 
-An end-to-end machine learning system that predicts customer churn, explains *why* each
-customer is at risk using SHAP, and recommends a retention action — built for a
-5th-semester Project Based Learning (PBL) project.
+Customer churn can lead to significant revenue loss when businesses identify
+at-risk customers only after they have already left.
 
-## Team
-- Aryan Patle
-- Anushka Gangwal
-- Aaditi Deshmukh
-- Aryan Kamthe
-
-**Faculty Guide:** Dr. Vinodpuri R. Gosavi
-**Group ID:** TYAIA209
+ChurnGuard is an explainable machine learning platform designed to identify
+customers who are likely to churn, understand the factors contributing to
+their risk, and prioritize suitable retention actions.
 
 ## Problem
 Businesses often only realize a customer is about to leave after they've already
