@@ -1,0 +1,46 @@
+Feature,SHAP_Value,Feature_Value,Absolute_SHAP
+num__tenure,-1.3413388,1.6084834273893616,1.3413388
+cat__Contract_Month-to-month,-1.024862,0.0,1.024862
+cat__OnlineSecurity_No,-0.48355135,0.0,0.48355135
+cat__Dependents_No,-0.37079093,0.0,0.37079093
+cat__Contract_Two year,-0.36817288,1.0,0.36817288
+cat__TechSupport_No,-0.26641575,0.0,0.26641575
+num__MonthlyCharges,0.22255929,1.6299763471022684,0.22255929
+cat__PaymentMethod_Electronic check,-0.19332018,0.0,0.19332018
+cat__Contract_One year,-0.1804582,0.0,0.1804582
+cat__OnlineBackup_No,-0.17551406,0.0,0.17551406
+cat__InternetService_Fiber optic,0.14204168,1.0,0.14204168
+cat__StreamingMovies_Yes,0.13222444,1.0,0.13222444
+cat__PaymentMethod_Credit card (automatic),-0.11847469,1.0,0.11847469
+cat__StreamingTV_Yes,0.083028644,1.0,0.083028644
+cat__Dependents_Yes,-0.06920827,1.0,0.06920827
+cat__MultipleLines_No,0.055102907,0.0,0.055102907
+cat__DeviceProtection_No,-0.05132367,0.0,0.05132367
+cat__PaymentMethod_Bank transfer (automatic),-0.048803173,0.0,0.048803173
+cat__TechSupport_Yes,-0.04673225,1.0,0.04673225
+num__TotalCharges,0.04565094,2.7068275180093,0.04565094
+cat__InternetService_DSL,0.04205285,0.0,0.04205285
+cat__Partner_No,-0.041423675,0.0,0.041423675
+cat__OnlineBackup_Yes,-0.02093042,1.0,0.02093042
+cat__DeviceProtection_Yes,0.019309139,1.0,0.019309139
+cat__gender_Female,0.018112209,0.0,0.018112209
+cat__MultipleLines_Yes,0.016662683,1.0,0.016662683
+cat__PaperlessBilling_No,0.00817513,0.0,0.00817513
+cat__PhoneService_No,-0.008026728,0.0,0.008026728
+cat__OnlineSecurity_Yes,-0.007904645,1.0,0.007904645
+cat__Partner_Yes,-0.007645221,1.0,0.007645221
+cat__gender_Male,-0.007499839,1.0,0.007499839
+cat__StreamingMovies_No,0.006124706,0.0,0.006124706
+cat__StreamingTV_No,0.0056083584,0.0,0.0056083584
+num__SeniorCitizen,0.003040004,-0.4417729543927776,0.003040004
+cat__PhoneService_Yes,-0.0023267611,1.0,0.0023267611
+cat__PaymentMethod_Mailed check,-0.001359576,0.0,0.001359576
+cat__PaperlessBilling_Yes,0.0011800573,1.0,0.0011800573
+cat__TechSupport_No internet service,0.0,0.0,0.0
+cat__DeviceProtection_No internet service,0.0,0.0,0.0
+cat__OnlineBackup_No internet service,0.0,0.0,0.0
+cat__OnlineSecurity_No internet service,0.0,0.0,0.0
+cat__InternetService_No,0.0,0.0,0.0
+cat__MultipleLines_No phone service,0.0,0.0,0.0
+cat__StreamingMovies_No internet service,0.0,0.0,0.0
+cat__StreamingTV_No internet service,0.0,0.0,0.0

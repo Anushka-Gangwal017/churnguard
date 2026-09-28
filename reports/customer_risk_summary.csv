@@ -1,0 +1,2 @@
+Customer_Index,Churn_Probability,Risk_Level,Top_Risk_Factors,Top_Protective_Factors
+0,0.017471986,Low,"MonthlyCharges, InternetService: Fiber optic, StreamingMovies: Yes, StreamingTV: Yes, MultipleLines: No","tenure, Contract: Month-to-month, OnlineSecurity: No, Dependents: No, Contract: Two year"
